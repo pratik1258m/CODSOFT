@@ -155,8 +155,8 @@ class RuleBasedChatbot:
                 "Bye! Feel free to chat again whenever you'd like."
             ]),
             (r"what is your name|who are you", [
-                "I am Antigravity Bot, a rule-based AI built for the CODSOFT AI Internship!",
-                "You can call me Antigravity Bot. I'm a helper chatbot running on predefined rules."
+                "I am Nexus Bot, a rule-based AI built for the CODSOFT AI Internship!",
+                "You can call me Nexus Bot. I'm a helper chatbot running on predefined rules."
             ]),
             (r"how are you|how is it going|how\'s it going|how do you do", [
                 "I'm doing great, thank you for asking! I'm ready to answer your questions.",

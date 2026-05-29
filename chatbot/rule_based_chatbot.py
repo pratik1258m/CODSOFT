@@ -36,8 +36,8 @@ class RuleBasedChatbot:
             (
                 r"what is your name|who are you",
                 [
-                    "I am Antigravity Bot, a rule-based AI built for the CODSOFT AI Internship!",
-                    "You can call me Antigravity Bot. I'm a helper chatbot running on predefined rules.",
+                    "I am Nexus Bot, a rule-based AI built for the CODSOFT AI Internship!",
+                    "You can call me Nexus Bot. I'm a helper chatbot running on predefined rules.",
                 ]
             ),
             (
@@ -144,7 +144,7 @@ class RuleBasedChatbot:
 
 def main():
     print("=" * 60)
-    print("         🤖 WELCOME TO ANTIGRAVITY RULE-BASED CHATBOT 🤖")
+    print("         🤖 WELCOME TO NEXUS RULE-BASED CHATBOT 🤖")
     print("             Created for the CODSOFT AI Internship")
     print("=" * 60)
     print("Type 'help' to see what I can do, or 'exit'/'bye' to quit.\n")
